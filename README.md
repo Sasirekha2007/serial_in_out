@@ -27,7 +27,6 @@ The synchronous nature of the flip-flops ensures that the shifting of data occur
 
 
 PROGRAM
-
 module serial_in_out (
     input  wire clk,     // clock input
     input  wire rst,     // synchronous reset
